@@ -1,2 +1,2 @@
 # robinmw.github.io
-Hey?
+A silly blog thing for practicing basic design.
